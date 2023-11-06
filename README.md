@@ -1,0 +1,2 @@
+# animasyonlukartlar
+Animasyonlu açılan kartlar
